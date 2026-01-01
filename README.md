@@ -31,3 +31,4 @@ Excel
 - PowerBI Dashboard
 - Python Notebook
 - Excel Dataset
+- Saless.sql
